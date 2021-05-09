@@ -292,6 +292,10 @@
     express "4.17.1"
     multer "1.4.2"
 
+"@nestjs/serve-static@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/serve-static/-/serve-static-1.0.2.tgz#8baa1a20fa39457186be4ec3e29b446d83d3fcb0"
+
 "@nestjs/testing@6.1.1":
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-6.1.1.tgz#cc871867f9bd053069467a5a2f1b429945413313"
@@ -754,8 +758,8 @@ bser@^2.0.0:
     node-int64 "^0.4.0"
 
 bson@^1.1.1, bson@~1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/bson/-/bson-1.1.1.tgz#4330f5e99104c4e751e7351859e2d408279f2f13"
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-1.1.6.tgz#fb819be9a60cd677e0853aee4ca712a785d6618a"
 
 buffer-from@1.x, buffer-from@^1.0.0:
   version "1.1.1"
